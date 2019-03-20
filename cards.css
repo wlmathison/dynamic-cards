@@ -1,0 +1,10 @@
+article {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+    width: fit-content;
+}
+
+button {
+    border-radius: 5px;
+}
